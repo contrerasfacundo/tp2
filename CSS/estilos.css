@@ -1,0 +1,44 @@
+.main{display: flex;
+flex-direction: column;}
+
+
+section{
+    background-color: rgb(219, 23, 23);
+display:flex;
+justify-content: center;
+}
+
+
+aside{background-color: rgb(27, 27, 247);
+display: flex;
+;
+}
+
+
+
+
+h2{color: aquamarine;}
+
+
+
+.ri{display: flex;
+    height: 100px;
+    width: 100px;}
+
+.img{display: flex;
+   
+   height: 100px;
+   width: 100px;
+}
+
+.lo {display: flex;
+height: 100px;
+width: 100px;}
+
+p {color: black;
+}
+
+nav{display: flex;}
+
+
+
